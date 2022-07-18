@@ -1,5 +1,5 @@
 # `01` Hello JSX
-[![Status overview badge](../../blob/badges/.github/badges/autograding-solution/badge.svg)](#results)
+[![Status overview badge](../../blob/badges/.github/badges/autograding-solution/badge.svg)](#-results)
 
 
 JSX also allows you to easily include variables into your HTML.
@@ -32,7 +32,10 @@ The resulting website HTML document will look like this:
 Basically, we are now able to mix HTML and JS in the same file without having to concatenate and use strings. :smiley: Amazing! :angry: right?
 
 [//]: # (autograding info start)
-## Results
+# <img src="https://github.com/DCI-EdTech/autograding-setup/raw/main/assets/bot-large.svg" alt="" data-canonical-src="https://github.com/DCI-EdTech/autograding-setup/raw/main/assets/bot-large.svg" height="31" /> Results
+> ⌛ Give it a minute. As long as you see the orange dot ![processing](https://raw.githubusercontent.com/DCI-EdTech/autograding-setup/main/assets/processing.svg) on top, CodeBuddy is still processing. Refresh this page to see it's current status.
+>
+> This is what CodeBuddy found when running your code. It is to show you what you have achieved and to give you hints on how to complete the exercise.
 
 
 ### Check `age` and `name` variables.
@@ -49,23 +52,9 @@ Basically, we are now able to mix HTML and JS in the same file without having to
 
 
 
-[🔬 Results Details](https://github.com/DigitalCareerInstitute/SPA-boilerplate-JSX/actions)
+[🔬 Results Details](../../actions)
+[🐞 Tips on Debugging](https://github.com/DCI-EdTech/autograding-setup/wiki/How-to-work-with-CodeBuddy)
+[📢 Report Problem](https://docs.google.com/forms/d/e/1FAIpQLSfS8wPh6bCMTLF2wmjiE5_UhPiOEnubEwwPLN_M8zTCjx5qbg/viewform?usp=pp_url&entry.652569746=SPA-boilerplate-JSX)
 
-[📢 Give Feedback or Report Problem](https://docs.google.com/forms/d/e/1FAIpQLSfS8wPh6bCMTLF2wmjiE5_UhPiOEnubEwwPLN_M8zTCjx5qbg/viewform?usp=pp_url&entry.652569746=SPA-boilerplate-JSX&entry.2115011968=https%3A%2F%2Fgithub.com%2FDigitalCareerInstitute%2FSPA-boilerplate-JSX)
-
-### Debugging your code
-> [reading the test outputs](https://github.com/DCI-EdTech/autograding-setup/wiki/Reading-test-outputs)
-
-There are two ways to see why tasks might not be completed:
-#### 1. Running tests locally
-- Run `npm install`
-- Run `npm test` in the terminal. You will see where your solution differs from the expected result.
-
-#### 2. Inspecting the test output on GitHub
-- Go to the [Actions tab of your exercise repo](https://github.com/DigitalCareerInstitute/SPA-boilerplate-JSX/actions)
-- You will see a list of the test runs. Click on the topmost one.
-- Click on 'Autograding'
-- Expand the item 'Run DCI-EdTech/autograding-action@main'
-- Here you see all outputs from the test run
 
 [//]: # (autograding info end)
